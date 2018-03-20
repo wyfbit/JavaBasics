@@ -6,7 +6,7 @@ public abstract class IntGenerator {
     public void cancel(){  
         canceled = true;  
     }  
-      
+    //public IntGenerator£¨£©{super.}
     public boolean isCanceled(){  
         return canceled;  
     }  
