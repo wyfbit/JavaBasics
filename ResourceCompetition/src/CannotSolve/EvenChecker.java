@@ -18,7 +18,6 @@ public class EvenChecker implements Runnable{
               int val = generator.next();
               if(val % 2 != 0) {
                    System.out.println(val + "not even!");
-                   generator.cancel();
               }
          }
     }
