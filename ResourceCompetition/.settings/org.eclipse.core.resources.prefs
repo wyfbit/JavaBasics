@@ -1,2 +1,7 @@
 eclipse.preferences.version=1
+encoding//src/com/amc/basicknowledge/javasecurity=UTF-8
+encoding//src/com/amc/basicknowledge/javasecurity/AESEncrypt.java=UTF-8
+encoding//src/com/amc/basicknowledge/javasecurity/DigitalSignature.java=UTF-8
+encoding//src/com/amc/basicknowledge/javasecurity/MessageDigestTest.java=UTF-8
+encoding//src/com/amc/basicknowledge/javasecurity/RSAEncrypt.java=UTF-8
 encoding/<project>=UTF-8
